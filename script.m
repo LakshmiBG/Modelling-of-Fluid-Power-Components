@@ -1,9 +1,4 @@
-% IHA-2609 Modelling of Fluid Power Components
-
-% Group:
-        % Lakshmi Bangalore Gangadharaswamy  267944
-        % Sankeerth Shivakumar               256356
-        % Pallab Ganguly                     267602
+% Modelling of Fluid Power Components
 
 
 %4/3 valve
@@ -109,7 +104,3 @@ Bucket.Interia = [(2/5)*Bucket.Mass*Radius.bucket^2, 0, 0; 0, (2/5)*Bucket.Mass*
 
 %Controller
 p_gain = -0.14025;
-
-sim 'IHA2609_BangaloreGangadharaswamy_Shivakumar_Ganguly_model'
-
-run 'IHA2609_BangaloreGangadharaswamy_Shivakumar_Ganguly_plot'
