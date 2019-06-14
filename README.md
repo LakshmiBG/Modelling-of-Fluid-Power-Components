@@ -10,6 +10,8 @@ The main components of the modelled system are:
 4. Boom Mechanism 
 5. Controller with feedback 
 
+ ![image](https://user-images.githubusercontent.com/51742367/59498639-7e82f780-8e9e-11e9-8ba4-5d94c97319c8.png)
+
 The modelling is done in 3 steps: 
 1. Modelling of individual components 
 2. System verification 
